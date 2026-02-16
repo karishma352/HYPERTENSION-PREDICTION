@@ -1,2 +1,2 @@
-# MICROPLASTIC-DETECTION
-a hardware + software project for microplastic(&lt;5mm) detection in different types of liquids . in this project different water samples were tested with model trained on lakhs of data samples. it indicates the microplastic content in water and suggest security measures. 
+# HYPERTENISON DETECTION
+A model designed for patients and doctors also to monitor , track and interact with doctors related to the symptoms of hypertension . the model is build for medical staff to check the conditons or state of patient and also patients can use it to keep track of their recovery along with prescriptions suggested my this model . this model takes differetn parameters from user as input and using the dataset it make predictions.it helps the doctors to monnitor patients effeciently and fater also it helps patients in absence of doctor with recommended precautions. 
